@@ -1,5 +1,8 @@
 {
   "name": "b2bcenter/soap-server",
+  "replace": {
+    "goetas-webservices/soap-server": "^0.1"
+  },
   "authors": [
     {
       "name": "Asmir Mustafic",
