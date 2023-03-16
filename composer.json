@@ -10,6 +10,7 @@
     }
   ],
   "description": "Pure PHP implementation of SOAP 1.1 and 1.2 server",
+  "license": "MIT",
   "require": {
     "php": "^7.2|^8.0",
     "rybakit/arguments-resolver": "^0.6",
